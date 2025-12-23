@@ -149,6 +149,7 @@ Include advanced SQL concepts (CTEs, Window Functions)
 Automate data updates
 
 11)Author and Contact:-
+
 Author: Parmeshwar Lokhande
 
 Role: Aspiring Data Analyst
