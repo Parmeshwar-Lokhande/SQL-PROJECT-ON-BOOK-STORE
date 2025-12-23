@@ -1,4 +1,4 @@
-# 📚 Book-Store-Sales-Analysis-using-SQL
+# 📚 Book-Store-Sales-Analysis-Using-SQL
 
 Analyzed book store sales data using SQL to uncover customer behavior, sales trends, and revenue insights.
 
